@@ -1,0 +1,38 @@
+.shows{
+  
+    background-color: #f27ec9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 35px;
+    margin: 4px 2px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 0 9px #7a7c7a;
+  
+}
+
+.hides{
+  
+    background-color: #af594c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+   
+  
+}
+
+/* .backgrounds{
+    
+    background: url(https://media.istockphoto.com/photos/to-do-list-as-a-memo-list-on-a-note-paper-picture-id1131941790?k=20&m=1131941790&s=170667a&w=0&h=VNxzBLO9GcgqZAGINsY4aLiV7_8IDEOkTcDJkdHKOes=);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; */
+    /* height: min-content; */
+    
+/* s */

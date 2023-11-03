@@ -1,0 +1,78 @@
+.header {
+    
+    text-align: center;
+     width: 250px;
+     height: 30px;
+     margin-top: 30px;
+     
+    }
+
+    
+  .divs {
+    border-radius:5 px;
+    border: 2px solid rgb(7, 233, 64);
+    background-color: #f5caca;
+    padding: 9px;
+    width: 900px;
+    /* height: 30px; */
+    margin-left: 400px;
+    margin-top: 80px; 
+    border-radius: 20px;
+    background-color: rgb(234, 238, 243);
+    text-align: center;
+    gap: 10px;
+  }
+
+   /* .di {
+    border-radius:5 px;
+    border: 2px solid rgb(81, 0, 128);
+    background-color: #f2f2f2;
+    padding: 9px;
+    width: 160px;
+    height: 300px;
+    margin-left: 50px; */
+    /* margin-right: 50px; */
+    /* margin-top: 80px;
+    border-radius: 20px;
+    background-color: rgb(184, 213, 248);
+    text-align: center;
+    
+  }   */
+
+  .task {
+    display: flex;
+    align-items: center;
+  }
+  
+  .taskcontent{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .taskdate {
+    margin-left: 50px; 
+    margin-right: 50px;
+  }
+  
+  .taskicon {
+    margin-left: 50px; 
+    margin-right: 50px;
+    background-color: rgb(242, 113, 113);
+  }
+
+  .taskcontentss{
+    margin-left: 80px;
+  }
+
+  .taskcontents{
+    margin-left: 50px;
+  }
+
+  .taskdates {
+    margin-left: 120px; 
+  }
+  
+  .taskicons {
+    margin-left: 110px; 
+    
+  }
+  

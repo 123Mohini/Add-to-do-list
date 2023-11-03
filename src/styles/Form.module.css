@@ -1,0 +1,43 @@
+.header {
+    /* color: rgb(255, 165, 30); */
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+    margin-left: 500px;
+    
+    
+  }
+
+  .submitbutton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    
+    /* display: inline-block; */
+    font-size: 16px;
+    margin: 4px 2px;
+    
+  }
+
+  .div {
+    border-radius:5 px;
+    border: 2px solid rgb(81, 0, 128);
+    background-color: #f2f2f2;
+    padding: 9px;
+    
+  }
+
+  .box{
+    
+        width: 300px;
+        /* height: px; */
+        border: 9px solid rgb(81, 0, 128);
+        padding: 50px;
+        margin: 20px;
+        background-color: #1ed4d7;
+        
+        
+    
+  }
